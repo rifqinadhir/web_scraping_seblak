@@ -1,4 +1,4 @@
-# **Tokopedia Seblak Sales Scraping and Data Cleaning using Python**
+# **Web Scraping and Data Cleaning of Tokopedia Seblak Sales using Python**
 
 ---
 
