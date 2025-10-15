@@ -1,4 +1,4 @@
-# **Web Scraping and Data Cleaning of Tokopedia Seblak Sales using Python**
+# **A-Land Product Scraping, Cleaning, and Database Loading using Python & PostgreSQL**
 
 ---
 
