@@ -51,13 +51,14 @@ Project ini berfokus pada pengambilan data penjualan produk seblak di Tokopedia 
 ---
 
 ## Final Dataset Structure
-|Kolom|Tipe Data|
-|Nama Produk|object|
-|Harga Produk|int|
-|Penjual|object|
-|Kota Toko|object|
-|Banyaknya Terjual|int|
-|Rating Produk|object / float|
+| Kolom | Tipe Data |
+|-----|---------|
+| Nama Produk | object |
+| Harga Produk | int |
+| Penjual | object |
+| Kota Toko | object |
+| Banyaknya Terjual | int |
+| Rating Produk | float|
 
 ---
 
